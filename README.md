@@ -1,10 +1,6 @@
 # Architect Crossword
 Architect Crossword at Technical University of Berlin - ZEMS: Zentraleinrichtung Moderne Sprachen
 
-## Using
-HTML - Javascript - CSS
-
-
 ## Contributors
 - Mohamed Mesto, m.mesto@campus.tu-berlin.de  , Mohamedmesto111@gmail.com
 
