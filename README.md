@@ -5,7 +5,7 @@
   <td>  <img align="right"  alt="Mohamed Mesto" width="160px" height='60px' src="https://www.zems.tu-berlin.de/fileadmin/_processed_/b/bf/csm_LOGOZEMS2015kurz_print_b_w_mediumres_e20d18f56e.jpg"/></td>
 </tr>
 <tr border=0>
-<td> </td><td  align="center">Advanced Web Technologies <br> <h5> Project Topic </h5> </td><td> </td>
+<td> </td><td  align="center">Web Technologies <br> <h5> App Topic </h5> </td><td> </td>
 </tr>
 <tr border=0>
 <td> </td><td> </td><td> </td>
