@@ -35,11 +35,6 @@ DreamWaver, HTML, CSS and JS
 - Mohamed Mesto, m.mesto@campus.tu-berlin.de  , Mohamedmesto111@gmail.com
 
 
-## License & copyright
-© Mohamed Mesto
-License under the [MIT License] (LICENSE).
-
-
 ![](Images/Architect-crossword-EN-main1.jpg)
 ![](Images/Architect-crossword-EN-main2.jpg)
 ![](Images/Architect-crossword-EN-main3.jpg)
