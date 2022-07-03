@@ -28,7 +28,7 @@ Architect Crossword at Technical University of Berlin - ZEMS: Zentraleinrichtung
 
  
 ## Tech
-DreamWaver, HTML, CSS and JS
+DreamWaver, HTML, CSS and JS (internal)
  
 
 ## Contributors
